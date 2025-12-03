@@ -1,4 +1,4 @@
-# WebseleneceHomeAssignment
+# WebseleneceHomeAssignment!
 
 A simple Node.js CLI for crawling web pages, extracting image URLs, and saving results in a JSON file.
 
